@@ -1,0 +1,21 @@
+body {
+display:flex ;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: white;
+  }
+  .age{
+background-color:#fff;
+padding:15px;
+border-radius: 10px;
+height: 230px;
+  }
+  .age input{
+width: 93%;
+padding: 10px;
+  }
+  .age p{
+    text-align: center;
+  }
+  
